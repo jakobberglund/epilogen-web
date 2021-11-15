@@ -3,6 +3,7 @@
     src="epilogen-den-tysta-massan-artwork.jpg"
     width="1500"
     height="1500"
+    loading="lazy"
     alt="Den tysta massan artwork"
   />
   <a href="https://epilogen.bandcamp.com/">Bandcamp</a>
