@@ -4,14 +4,7 @@
   import '../app.css';
 </script>
 
-<svelte:head>
-  <link
-    rel="stylesheet"
-    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap"
-  />
-</svelte:head>
-
-<div class="layout">
+<div>
   <Header />
   <main>
     <slot />
@@ -19,7 +12,7 @@
 </div>
 
 <style>
-  .layout {
+  div {
     min-height: 100vh;
     display: grid;
     grid-auto-flow: row;

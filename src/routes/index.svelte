@@ -1,7 +1,3 @@
-<svelte:head>
-  <title>Epilogen - Nytt album 24 november</title>
-</svelte:head>
-
 <div>
   <img
     src="epilogen-den-tysta-massan-artwork.jpg"
