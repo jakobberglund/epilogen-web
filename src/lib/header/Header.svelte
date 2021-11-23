@@ -1,5 +1,5 @@
 <header>
-  <h1>Epilogen - Nytt album "Den tysta massan" släpps 24 november</h1>
+  <h1>Epilogen - Debutalbumet "Den tysta massan" ute nu!</h1>
 </header>
 
 <style>

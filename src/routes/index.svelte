@@ -6,7 +6,7 @@
     loading="lazy"
     alt="Den tysta massan artwork"
   />
-  <a href="https://epilogen.bandcamp.com/">Bandcamp</a>
+  <a href="https://epilogen.bandcamp.com/album/den-tysta-massan">Bandcamp</a>
   <a href="https://open.spotify.com/artist/6D2X3gxJG0yo8MiE2VtmvH?si=-mcydiRdTlaKT-z1GIoF3w"
     >Spotify</a
   >
