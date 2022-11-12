@@ -5,7 +5,6 @@
 </script>
 
 <div>
-  <Header />
   <main>
     <slot />
   </main>
