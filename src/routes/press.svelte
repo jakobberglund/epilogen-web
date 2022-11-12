@@ -3,7 +3,7 @@
   <section>
     <h2>Biografi</h2>
     <p>
-      Den 2 december släpper Epilogen sitt andra andra album, Dekonstruktion. Det är en utveckling
+      Den 2 december släpper Epilogen sitt andra album, Dekonstruktion. Det är en utveckling
       av debutskivans blandning av gnisslande gitarrer och elektronik. Som albumtiteln antyder så är
       det även ett avsteg från tydliga strukturer: Låtarna är längre, texturerna tar plats, och
       kanske är det mer kompromisslöst. Musikaliskt är det en mörk blandning av rock, elektronik och
