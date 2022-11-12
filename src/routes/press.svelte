@@ -13,9 +13,9 @@
       Epilogen är Stockholmsduon Jakob Berglund på sång, synthar och maskiner, och Anders Carlström
       på gitarr och bas. Anders och Jakob är vänner sedan barndomen, och har länge spelat musik, var
       för sig och tillsammans. Jakob är medlem i A Swarm of the Sun, där även Anders spelar bas live
-      och på skiva. Anders spelar även i The Isolation Process och Kausal, och var tidigare medlem i
-      Lingua.
+      och på skiva. Anders spelar även i The Isolation Process och Kausal.
     </p>
+    <p>Dekonstruktion är producerad och mixad av Jakob Berglund.</p>
   </section>
   <section>
     <h2>Länkar</h2>
