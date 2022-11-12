@@ -48,8 +48,8 @@
     </figure>
     <p>
       Ladda hem
-      <a href="epilogen-dekonstruktion-artwork-3000x3000.jpg">3000x3000</a>
-      <a href="epilogen-dekonstruktion-artwork-1200x1200.jpg">1200x1200</a>
+      <a href="/epilogen-dekonstruktion-artwork-3000x3000.jpg" target="_blank">3000x3000</a>
+      <a href="/epilogen-dekonstruktion-artwork-1200x1200.jpg" target="_blank">1200x1200</a>
     </p>
     <h3>Bandfoton</h3>
     <p>Foto: Johan Söderling och Jakob Berglund, 2022</p>
@@ -64,7 +64,7 @@
     </figure>
     <p>
       Ladda hem
-      <a href="epilogen-dekonstruktion-bandfoto-1.jpg">3000x2000</a>
+      <a href="epilogen-dekonstruktion-bandfoto-1.jpg" target="_blank">3000x2000</a>
     </p>
     <figure>
       <img
@@ -77,7 +77,7 @@
     </figure>
     <p>
       Ladda hem
-      <a href="epilogen-dekonstruktion-bandfoto-2.jpg">3000x2000</a>
+      <a href="epilogen-dekonstruktion-bandfoto-2.jpg" target="_blank">3000x2000</a>
     </p>
   </section>
 </article>
@@ -94,7 +94,7 @@
   }
 
   section {
-    width: 700px;
+    width: 100%;
     max-width: 700px;
     text-align: start;
   }
