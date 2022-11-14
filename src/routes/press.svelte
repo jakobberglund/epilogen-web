@@ -3,7 +3,7 @@
   <section>
     <h2>Biografi</h2>
     <p>
-      Den 2 december släpper Epilogen sitt andra andra album, Dekonstruktion. Det är en utveckling
+      Den 2 december släpper Epilogen sitt andra album, Dekonstruktion. Det är en utveckling
       av debutskivans blandning av gnisslande gitarrer och elektronik. Som albumtiteln antyder så är
       det även ett avsteg från tydliga strukturer: Låtarna är längre, texturerna tar plats, och
       kanske är det mer kompromisslöst. Musikaliskt är det en mörk blandning av rock, elektronik och
@@ -13,9 +13,9 @@
       Epilogen är Stockholmsduon Jakob Berglund på sång, synthar och maskiner, och Anders Carlström
       på gitarr och bas. Anders och Jakob är vänner sedan barndomen, och har länge spelat musik, var
       för sig och tillsammans. Jakob är medlem i A Swarm of the Sun, där även Anders spelar bas live
-      och på skiva. Anders spelar även i The Isolation Process och Kausal, och var tidigare medlem i
-      Lingua.
+      och på skiva. Anders spelar även i The Isolation Process och Kausal.
     </p>
+    <p>Dekonstruktion är producerad och mixad av Jakob Berglund.</p>
   </section>
   <section>
     <h2>Länkar</h2>
