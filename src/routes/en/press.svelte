@@ -36,7 +36,7 @@
     <p>Artwork by Epilogen. It is a cut collage of analog, self-developed photography.</p>
     <figure>
       <img
-        src="epilogen-dekonstruktion-artwork-1200x1200.jpg"
+        src="/epilogen-dekonstruktion-artwork-1200x1200.jpg"
         width="1200"
         height="1200"
         loading="lazy"
@@ -52,7 +52,7 @@
     <p>Photo: Johan Söderling and Jakob Berglund, 2022</p>
     <figure>
       <img
-        src="epilogen-dekonstruktion-bandfoto-1.jpg"
+        src="/epilogen-dekonstruktion-bandfoto-1.jpg"
         width="3000"
         height="2000"
         loading="lazy"
@@ -61,11 +61,11 @@
     </figure>
     <p>
       Download
-      <a href="epilogen-dekonstruktion-bandfoto-1.jpg" target="_blank">3000x2000</a>
+      <a href="/epilogen-dekonstruktion-bandfoto-1.jpg" target="_blank">3000x2000</a>
     </p>
     <figure>
       <img
-        src="epilogen-dekonstruktion-bandfoto-2.jpg"
+        src="/epilogen-dekonstruktion-bandfoto-2.jpg"
         width="3000"
         height="2000"
         loading="lazy"
@@ -74,7 +74,7 @@
     </figure>
     <p>
       Download
-      <a href="epilogen-dekonstruktion-bandfoto-2.jpg" target="_blank">3000x2000</a>
+      <a href="/epilogen-dekonstruktion-bandfoto-2.jpg" target="_blank">3000x2000</a>
     </p>
   </section>
 </article>

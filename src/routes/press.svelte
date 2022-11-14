@@ -3,8 +3,8 @@
   <section>
     <h2>Biografi</h2>
     <p>
-      Den 2 december släpper Epilogen sitt andra album, Dekonstruktion. Det är en utveckling
-      av debutskivans blandning av gnisslande gitarrer och elektronik. Som albumtiteln antyder så är
+      Den 2 december släpper Epilogen sitt andra album, Dekonstruktion. Det är en utveckling av
+      debutskivans blandning av gnisslande gitarrer och elektronik. Som albumtiteln antyder så är
       det även ett avsteg från tydliga strukturer: Låtarna är längre, texturerna tar plats, och
       kanske är det mer kompromisslöst. Musikaliskt är det en mörk blandning av rock, elektronik och
       rostiga analoga industriella ljudlandskap.
@@ -39,7 +39,7 @@
     </p>
     <figure>
       <img
-        src="epilogen-dekonstruktion-artwork-1200x1200.jpg"
+        src="/epilogen-dekonstruktion-artwork-1200x1200.jpg"
         width="1200"
         height="1200"
         loading="lazy"
@@ -55,29 +55,29 @@
     <p>Foto: Johan Söderling och Jakob Berglund, 2022</p>
     <figure>
       <img
-        src="epilogen-dekonstruktion-bandfoto-1.jpg"
+        src="/epilogen-dekonstruktion-bandfoto-1.jpg"
         width="3000"
         height="2000"
         loading="lazy"
-        alt="Dekonstruktion artwork"
+        alt="Epilogen bandfoto"
       />
     </figure>
     <p>
       Ladda hem
-      <a href="epilogen-dekonstruktion-bandfoto-1.jpg" target="_blank">3000x2000</a>
+      <a href="/epilogen-dekonstruktion-bandfoto-1.jpg" target="_blank">3000x2000</a>
     </p>
     <figure>
       <img
-        src="epilogen-dekonstruktion-bandfoto-2.jpg"
+        src="/epilogen-dekonstruktion-bandfoto-2.jpg"
         width="3000"
         height="2000"
         loading="lazy"
-        alt="Dekonstruktion artwork"
+        alt="Epilogen bandfoto"
       />
     </figure>
     <p>
       Ladda hem
-      <a href="epilogen-dekonstruktion-bandfoto-2.jpg" target="_blank">3000x2000</a>
+      <a href="/epilogen-dekonstruktion-bandfoto-2.jpg" target="_blank">3000x2000</a>
     </p>
   </section>
 </article>
