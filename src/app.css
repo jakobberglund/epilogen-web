@@ -1,7 +1,8 @@
 :root {
-  --epl--color--background: hsl(0 0% 90%);
-  --epl--color--separator: hsl(0 0% 100%);
-  --epl--color--text: hsl(0 0% 20%);
+  --epl--color--background: #000;
+  --epl--color--text: #ddd;
+  --epl--color--link: #5aaf9b;
+  --epl--color--border: #222;
   --epl--typography--font-family: 'Cormorant Garamond', serif;
 }
 
@@ -13,5 +14,14 @@ body {
   background: var(--epl--color--background);
   color: var(--epl--color--text);
   font-family: var(--epl--typography--font-family);
-  height: 100vh;
+  min-height: 100vh;
+}
+
+a {
+  color: var(--epl--color--link);
+}
+
+iframe {
+  max-width: 100%;
+  border: 1px solid var(--epl--color--border);
 }

@@ -88,8 +88,6 @@
     flex-direction: column;
     align-items: center;
     padding: 2rem;
-    background-color: black;
-    color: #ddd;
     min-height: 100vh;
   }
 
