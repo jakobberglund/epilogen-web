@@ -3,15 +3,17 @@
   <section>
     <h2>Biography</h2>
     <p>
-      On December 2, Epilogen will release its second album, Dekonstruktion. It is a development of
-      the debut album's mix of squealing guitars and rugged electronics. As the album title
-      suggests, it is it also a departure from clear structures: The songs are longer, textures take
-      up space, and maybe it's more uncompromising. Musically, it's a dark mix of rock, electronica
-      and rusty analog industrial soundscapes.
+      On April 14, Epilogen will release their third album, Nollpunkten. It is in many ways a
+      sibling album to Dekonstruktion, the band's second outing released last December, but yet with
+      a clear identity of its own. At Nollpunkten, Epilogen works to create a distinct sound world,
+      where the songs originate in seemingly simple structures, and atmospheres are uncompromisingly
+      sculpted through the embrace of chance and improvisation. It is a record that grows and
+      changes with each listen. Musically, it's a dark mix of rock, electronica and rusty analog
+      industrial soundscapes.
     </p>
     <p>
-      Epilogen is the Swedish duo Jakob Berglund on vocals, synths and alectronics, and Anders
-      Carlström on guitar and bass. Anders and Jakob have been friends since childhood, and have
+      Epilogen is the Swedish duo Jakob Berglund on vocals, synths and electronics, and Anders
+      Carlström on guitars and bass. Anders and Jakob have been friends since childhood, and have
       been playing music for a long time separately and together. Jakob is a member of A Swarm of
       the Sun, where Anders also plays bass live and on record. Anders is also a member of The
       Isolation Process and Kausal.
@@ -20,39 +22,39 @@
   <section>
     <h2>Länkar</h2>
     <p>
-      <a href="https://epilogen.bandcamp.com/album/dekonstruktion">Bandcamp</a>
+      <a href="https://epilogen.bandcamp.com/album/nollpunkten">Bandcamp</a>
       <a href="https://open.spotify.com/artist/6D2X3gxJG0yo8MiE2VtmvH?si=-mcydiRdTlaKT-z1GIoF3w"
         >Spotify</a
       >
       <a href="https://music.apple.com/us/artist/epilogen/1592826022">Apple Music</a>
-      <a href="https://www.facebook.com/epilogenmusik">Facebook</a>
       <a href="https://www.instagram.com/epilogenmusik/">Instagram</a>
+      <a href="https://www.facebook.com/epilogenmusik">Facebook</a>
       <a href="mailto:epilogenmusik@gmail.com">Email us</a>
     </p>
   </section>
   <section>
     <h2>Images</h2>
-    <h3>Dekonstruktion - Album cover</h3>
+    <h3>Nollpunkten - Album cover</h3>
     <p>Artwork by Epilogen. It is a cut collage of analog, self-developed photography.</p>
     <figure>
       <img
-        src="/epilogen-dekonstruktion-artwork-1200x1200.jpg"
+        src="/epilogen-nollpunkten-artwork-1200x1200.jpg"
         width="1200"
         height="1200"
         loading="lazy"
-        alt="Dekonstruktion artwork"
+        alt="Nollpunkten artwork"
       />
     </figure>
     <p>
       Download
-      <a href="/epilogen-dekonstruktion-artwork-3000x3000.jpg" target="_blank">3000x3000</a>
-      <a href="/epilogen-dekonstruktion-artwork-1200x1200.jpg" target="_blank">1200x1200</a>
+      <a href="/epilogen-nollpunkten-artwork-3000x3000.jpg" target="_blank">3000x3000</a>
+      <a href="/epilogen-nollpunkten-artwork-1200x1200.jpg" target="_blank">1200x1200</a>
     </p>
     <h3>Band photography</h3>
     <p>Photo: Johan Söderling and Jakob Berglund, 2022</p>
     <figure>
       <img
-        src="/epilogen-dekonstruktion-bandfoto-1.jpg"
+        src="/epilogen-bandfoto-1.jpg"
         width="3000"
         height="2000"
         loading="lazy"
@@ -61,11 +63,11 @@
     </figure>
     <p>
       Download
-      <a href="/epilogen-dekonstruktion-bandfoto-1.jpg" target="_blank">3000x2000</a>
+      <a href="/epilogen-bandfoto-1.jpg" target="_blank">3000x2000</a>
     </p>
     <figure>
       <img
-        src="/epilogen-dekonstruktion-bandfoto-2.jpg"
+        src="/epilogen-bandfoto-2.jpg"
         width="3000"
         height="2000"
         loading="lazy"
@@ -74,7 +76,7 @@
     </figure>
     <p>
       Download
-      <a href="/epilogen-dekonstruktion-bandfoto-2.jpg" target="_blank">3000x2000</a>
+      <a href="/epilogen-bandfoto-2.jpg" target="_blank">3000x2000</a>
     </p>
   </section>
 </article>
