@@ -1,7 +1,15 @@
 <article>
+  <header>
+    <nav>
+      <a href="#biografi">Biografi,</a>
+      <a href="#lankar">Länkar,</a>
+      <a href="#bilder">Bilder,</a>
+      <a href="#recensioner">Recensioner</a>
+    </nav>
+  </header>
   <h1>Press</h1>
   <section>
-    <h2>Biografi</h2>
+    <h2 id="biografi">Biografi</h2>
     <p>
       Den 14 april släpper Epilogen sitt tredje album, Nollpunkten. Det är på många sätt en
       syskonskiva till Dekonstruktion, bandets andra album som släpptes i december förra året, men
@@ -20,7 +28,7 @@
     <p>Nollpunkten är producerad och mixad av Jakob Berglund.</p>
   </section>
   <section>
-    <h2>Länkar</h2>
+    <h2 id="lankar">Länkar</h2>
     <p>
       <a href="https://epilogen.bandcamp.com/album/nollpunkten">Bandcamp</a>
       <a href="https://open.spotify.com/artist/6D2X3gxJG0yo8MiE2VtmvH?si=-mcydiRdTlaKT-z1GIoF3w"
@@ -33,7 +41,7 @@
     </p>
   </section>
   <section>
-    <h2>Bilder</h2>
+    <h2 id="bilder">Bilder</h2>
     <h3>Nollpunkten - omslagsbild</h3>
     <p>
       Omslaget är designat av Epilogen. Det är ett skuret kollage av analogt, egenframkallat
@@ -80,6 +88,34 @@
     <p>
       Ladda hem
       <a href="/epilogen-bandfoto-2.jpg" target="_blank">3000x2000</a>
+    </p>
+  </section>
+  <section>
+    <h2 id="recensioner">Recensioner</h2>
+    <p>
+      <a
+        href="https://gaffa.se/recensioner/2022/december/album/epilogen-dekonstruktion-en-omgivande-nastan-fysisk-kansla-av-overgivenhet/"
+        >Gaffa om Dekonstruktion:</a
+      ><br />
+      "En omgivande, nästan fysisk känsla av övergivenhet."<br />Betyg 5 av 6
+    </p>
+    <p>
+      <a href="https://www.opulens.se/musik/kangas-klanger-skonhet-mystik-och-en-riktig-parla/"
+        >Opulens om Dekonstruktion:</a
+      ><br />
+      "Söndersprängd men sammansvetsad svävar och knarrar musiken sakta fram för att sedan brista ut
+      i kreativa krevader där suset från avgrunden gör sig påmint."
+    </p>
+    <p>
+      <a href="https://482mhz.com/2022/12/02/recensioner-2022-12-02/">482mhz om Dekonstruktion:</a
+      ><br />
+      "De vill bevisligen krossa oss, men det är för njutningsfullt för att man ska kunna bli krossad."<br
+      />Betyg 7 av 10
+    </p>
+    <p>
+      <a href="https://482mhz.com/2021/11/26/recensioner-2021-11-26/">482mhz om Den tysta massan:</a
+      ><br />
+      "Mitt nya svenska favoritband heter Epilogen."<br />Betyg 8 av 10
     </p>
   </section>
 </article>
