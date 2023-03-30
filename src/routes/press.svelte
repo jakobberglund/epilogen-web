@@ -4,7 +4,7 @@
       <a href="#biografi">Biografi,</a>
       <a href="#lankar">Länkar,</a>
       <a href="#bilder">Bilder,</a>
-      <a href="#recensioner">Recensioner</a>
+      <a href="#recensioner">Recensioner,</a>
       <a href="/en/press">In English</a>
     </nav>
   </header>
