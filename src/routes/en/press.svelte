@@ -5,6 +5,7 @@
       <a href="#links">Links,</a>
       <a href="#images">Images,</a>
       <a href="#reviews">Reviews</a>
+      <a href="/press">På svenska</a>
     </nav>
   </header>
   <h1>Press</h1>

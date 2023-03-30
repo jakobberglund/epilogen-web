@@ -5,6 +5,7 @@
       <a href="#lankar">Länkar,</a>
       <a href="#bilder">Bilder,</a>
       <a href="#recensioner">Recensioner</a>
+      <a href="/en/press">In English</a>
     </nav>
   </header>
   <h1>Press</h1>
